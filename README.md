@@ -71,7 +71,7 @@ PowerShell
 
 ```powershell
 $env:DB_USERNAME="root"
-$env:DB_PASSWORD="your_password"
+$env:DB_PASSWORD="Hari@1432"
 ```
 
 Start the backend
